@@ -1,4 +1,4 @@
-baseURL = "https://kaller.io"
+baseURL = "https://kaller.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
